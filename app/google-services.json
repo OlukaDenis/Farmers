@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "465378214179",
+    "firebase_url": "https://agriculture-app-d2fcc.firebaseio.com",
+    "project_id": "agriculture-app-d2fcc",
+    "storage_bucket": "agriculture-app-d2fcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465378214179:android:7ab290132e17c5c7",
+        "android_client_info": {
+          "package_name": "com.mcdenny.farmerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465378214179-4hsruvt9rku5mem0oblomlv7lp421qt6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mcdenny.farmerapp",
+            "certificate_hash": "081b021c8a7d297c43f53fc353f95fab8be7ca20"
+          }
+        },
+        {
+          "client_id": "465378214179-p4td66fujnpcn1u53i4ep7jtoov404eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMwu7iPZDUNcJM_Z6qztZTofxZo1ZkzmQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465378214179-p4td66fujnpcn1u53i4ep7jtoov404eg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
